@@ -181,7 +181,7 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
         display: block;
-        overflow: auto;
+        overflow: scroll;
     }
                    
     .nametag { 
